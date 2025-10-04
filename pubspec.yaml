@@ -91,6 +91,7 @@ dependencies:
   checked_yaml: 2.0.4
   cli_config: 0.2.0
   clock: 1.1.2
+  cloud_firestore: ^5.0.0
   code_assets: 0.19.4
   collection: 1.19.1
   convert: 3.1.2
@@ -104,9 +105,13 @@ dependencies:
   ffi: 2.1.4
   file: 7.0.1
   fixnum: 1.1.1
+  flutter:
+    sdk: flutter
   flutter_gallery_assets: 1.0.2
   flutter_localized_locales: 2.0.5
   flutter_staggered_grid_view: 0.7.0
+  firebase_auth: ^5.0.0
+  firebase_core: ^3.0.0
   frontend_server_client: 4.0.0
   gcloud: 0.8.19
   glob: 2.1.3
